@@ -1,0 +1,11 @@
+Package: DataPrep
+Type: Package
+Title: For Data Prep And To Save Session Info
+Version: 0.1.0
+Author: Emily Chicklis via B.J. Stubbs
+Maintainer: The package maintainer <fakeName@hotmail.com>
+Description: This package saves a basic csv file, saves the session info, and performs and saves a checksum
+License: What license is it under?#what license??
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
